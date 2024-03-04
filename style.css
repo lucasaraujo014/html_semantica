@@ -2,3 +2,13 @@ body{
     width: 80vw;
     margin: auto;
 }
+#artigos{
+    background-color: aquamarine;
+    display: flex;
+}
+#meusHobbies{
+    background-color: red;
+}
+#minhaCarreira{
+    background-color: cornflowerblue;
+}

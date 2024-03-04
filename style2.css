@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+}
+
+td,
+th {
+    width: 16.6%;
+    text-align: center;
+    padding: 5px;
+}
+
+
+table,
+th,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
